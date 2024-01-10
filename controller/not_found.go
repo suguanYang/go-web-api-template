@@ -2,7 +2,7 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/suguan/wechat-hm/_internal"
+	"github.com/suguan/template-api/_internal"
 )
 
 type NotFoundController struct {

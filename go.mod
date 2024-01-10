@@ -1,4 +1,4 @@
-module github.com/suguan/wechat-hm
+module github.com/suguan/template-api
 
 go 1.21.5
 

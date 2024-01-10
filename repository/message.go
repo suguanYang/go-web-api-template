@@ -3,8 +3,8 @@ package repository
 import (
 	"database/sql"
 
-	"github.com/suguan/wechat-hm/_internal"
-	"github.com/suguan/wechat-hm/db"
+	"github.com/suguan/template-api/_internal"
+	"github.com/suguan/template-api/db"
 )
 
 type MessageRepository struct {

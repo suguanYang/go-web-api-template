@@ -7,9 +7,9 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/dig"
 
-	"github.com/suguan/wechat-hm/controller"
-	"github.com/suguan/wechat-hm/db"
-	"github.com/suguan/wechat-hm/repository"
+	"github.com/suguan/template-api/controller"
+	"github.com/suguan/template-api/db"
+	"github.com/suguan/template-api/repository"
 )
 
 func main() {
